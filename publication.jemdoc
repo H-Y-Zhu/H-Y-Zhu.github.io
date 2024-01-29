@@ -6,21 +6,25 @@
 
 == Robotics and Artificial Intelligence
 === *Journal Papers*
+. Y. Li, *H. Zhu*, J. Ma, C. Xiang, P. Vadakkepat, Incremental few-shot learning via implanting and consolidating, /Neurocomputing/, 2023
 . *H. Zhu*, X. Li, W. Chen, X. Li, J. Ma, C. S. Teo, T. J. Teo, W. Lin, Weight Imprinting Classification-Based Force Grasping With a Variable-Stiffness Robotic Gripper, /IEEE Transactions on Automation Science and Engineering/, 2021
 
-
 === *Conference Papers*
+. J. Wang, *H. Zhu**, H. Guo, A. Al Mamun, C. W. De Silva, T. H. Lee, Few-Shot Point Cloud Semantic Segmentation for CAM-CAD via Feature Enhancement and Efficient Dual Attention, /Annual Conference of the IEEE Industrial Electronics Society (IECON)/, 2023
+. H. Guo, *H. Zhu**, J. Wang, V. Prahlad, W.K. Ho, C. W. de Silva, T. H. Lee, Lightweight Compressed Temporal and Compressed Spatial Attention with Augmentation Fusion in Remaining Useful Life Prediction, /Annual Conference of the IEEE Industrial Electronics Society (IECON)/, 2023
+. J. Wang, *H. Zhu**, H. Guo, A. Al Mamun, C. Xiang, T. H. Lee, Few-shot point cloud semantic segmentation via contrastive self-supervision and multi-resolution attention, /IEEE International Conference on Robotics and Automation (ICRA)/, 2023
+. J. Wang, *H. Zhu**, H. Guo, A. Al Mamun, P. Vadakkepat, T. H. Lee, CAM-CAD Point Cloud Part Segmentation via Few-Shot Learning, /IEEE 20th International Conference on Industrial Informatics (INDIN)/, 2022
+. H. Guo, *H. Zhu**, J. Wang, P. Vadakkcpat, W. K. Ho, T. H. Lee, Masked Self-Supervision for Remaining Useful Lifetime Prediction in Machine Tools, /IEEE 20th International Conference on Industrial Informatics (INDIN)/, 2022
 . Y. Li, *H. Zhu**, S. Tian, F. Feng, J. Ma, C. S. Teo, C. Xiang, P. Vadakkepat, T. H. Lee, Incremental Few-Shot Object Detection for Robotics, /IEEE Conference on Robotics and Automation (ICRA)/, 2022
 . Y. Li, *H. Zhu**, Y. Cheng, W. Wang, C. S. Teo, C. Xiang, P. Vadakkepat, T. H. Lee, Few-Shot Object Detection via Classification Refinement and Distractor Retreatment, /IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)/, 2021
 . *H. Zhu*, Y. Li, F. Bai, W. Chen, X. Li, J. Ma, C. S. Teo, P. Y. Tao, W. Lin, Grasping Detection Network with Uncertainty Estimation for Confidence-Driven Semi-Supervised Domain Adaptation, /International Conference on Intelligent Robots and Systems (IROS)/, 2020
-. X. Li, *H. Zhu**, J. Ma, T. J. Teo, C. S. Teo, M Tomizuka, T. H. Lee, Learning-Based Controller Optimization for Repetitive Robotic Tasks
-International Conference on Intelligent Robots and Systems (IROS), 2020
-
+. X. Li, *H. Zhu**, J. Ma, T. J. Teo, C. S. Teo, M Tomizuka, T. H. Lee, Learning-Based Controller Optimization for Repetitive Robotic Tasks, /International Conference on Intelligent Robots and Systems (IROS)/, 2020
 
 == Mechatronics and Control
 === *Journal Papers*
-. S. Zhang, X. He, *H. Zhu*, X. Li, X. Liu, PID-Like Coupling Control of Underactuated Overhead Cranes with Input Constraints, /
-Mechanical Systems and Signal Processing/, 2022
+. S. Zhang, X. He, *H. Zhu*, Barrier function-based adaptive antisway control for underactuated overhead cranes, /Nonlinear Dynamics/, 2023
+. S. Zhang, X. He, *H. Zhu*, X. Li, X. Liu, PID-Like Coupling Control of Underactuated Overhead Cranes with Input Constraints, /Mechanical Systems and Signal Processing/, 2022
+. J. Ma, *H. Zhu**, X. Li, W. Wang, C. W. de Silva, T. H. Lee, Robust Fixed-Order Controller Design for Uncertain Systems With Generalized Common Lyapunov Strictly Positive Realness Characterization, /IEEE Transactions on Systems, Man, and Cybernetics: Systems/, 2022
 . S. Zhang, *H. Zhu**, X. He, Y. Feng, C.K. Pang, Passivity-based Coupling Control for Underactuated Three-Dimensional Overhead Cranes, /ISA transactions/, 2021
 . J. Ma, Z. Cheng, *H. Zhu**, X. Li, M. Tomizuka, T. H. Lee, Convex Parameterization and Optimization for Robust Tracking of a Magnetically Levitated Planar Positioning System, /IEEE Transactions on Industrial Electronics/, 2021
 . J. Ma, Z. Cheng, W. Wang, X. Li, *H. Zhu**, C.W. De Silva, T. H. Lee, Convex Inner Approximation for Mixed H2\/H-Infinity Control with Application to a 2-DoF Flexure-Based Nano-Positioning System, /IEEE Transactions on Industrial Electronics/, 2021
