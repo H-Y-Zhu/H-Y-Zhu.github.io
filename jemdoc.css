@@ -365,3 +365,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.note {
+    font-size: 15px; /* Adjust as needed */
+    color: gray; /* Optional: make it look more like a note */
+}
